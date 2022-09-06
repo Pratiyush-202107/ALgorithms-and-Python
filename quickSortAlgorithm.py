@@ -42,9 +42,7 @@ def quickSort(array, low, high):
 
 # Driver code
 array = [23,92,45,19,38,33]
-print("Input array: ")
-print(array)
+print("Input array: ", array)
 size = len(array)
 quickSort(array, 0, size - 1) #quickSort algorithm call
-print("Sorted array: ")
-print(array)
+print("Sorted array: ", array)
