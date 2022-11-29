@@ -83,5 +83,5 @@ g.addEdge(3, 3)
 print("BFS Traversal(starting from vertex 2):")
 g.BFS(2)
 
-print("\nDFS Traversal(starting from vertex 2)")
+print("\nDFS Traversal(starting from vertex 1)")
 g.DFS(1)
