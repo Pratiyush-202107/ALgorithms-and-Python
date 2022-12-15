@@ -1,3 +1,5 @@
+# Program to represent data required for
+# "Job Sequencing with Deadlines" using dataclass
 from dataclasses import dataclass
 
 @dataclass
